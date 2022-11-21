@@ -1,0 +1,14 @@
+C:\Users\d5xs\Documents\FileParser_Samples_Tests.exe
+C:\Users\d5xs\Documents\FileParser_Samples_Tests.dll
+C:\Users\d5xs\Documents\FileParser_Samples_Tests.deps.json
+C:\Users\d5xs\Documents\FileParser_Samples_Tests.runtimeconfig.json
+C:\Users\d5xs\Documents\FileParser_Samples_Tests.pdb
+C:\Users\d5xs\Documents\DocumentFormat.OpenXml.dll
+C:\Users\d5xs\Documents\Microsoft.Win32.SystemEvents.dll
+C:\Users\d5xs\Documents\Sprache.dll
+C:\Users\d5xs\Documents\SpreadsheetLight.dll
+C:\Users\d5xs\Documents\System.Drawing.Common.dll
+C:\Users\d5xs\Documents\System.IO.Packaging.dll
+C:\Users\d5xs\Documents\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\d5xs\Documents\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\d5xs\Documents\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
