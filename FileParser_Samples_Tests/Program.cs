@@ -41,9 +41,9 @@ namespace FileParser_Samples_Tests
             if (filesToRead_ICP.Any())
             {
                 //create directories and files
-                var IcpDirectory = Directory.CreateDirectory(completedFilesPath + "/ICP");
-                newDirectory = Directory.CreateDirectory(IcpDirectory + "/" + dateToday);
-                var archiveDirectory = Directory.CreateDirectory(newDirectory + "/Archive");
+                var IcpDirectory = Directory.CreateDirectory(completedFilesPath + "//ICP");
+                newDirectory = Directory.CreateDirectory(IcpDirectory + "//" + dateToday);
+                var archiveDirectory = Directory.CreateDirectory(newDirectory + "//Archive");
 
                 filePath = newDirectory + "\\" + fileName;
 
@@ -56,7 +56,6 @@ namespace FileParser_Samples_Tests
                         FileName = Path.GetFileName(file),
                         Lines = System.IO.File.ReadAllLines(file)
                     });
-
 
                     File.Copy(file, Path.Combine(archiveDirectory.FullName, time + "_" + Path.GetFileName(file)));
                 }
